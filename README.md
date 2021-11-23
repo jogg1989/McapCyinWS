@@ -3,7 +3,8 @@ Web Service para pruebas de metodo GET y POST de Http para la materia ciberinfra
 
 
 ### Probar el Web Service con:
-##POST
+## POST
+
 curl --header "Content-Type: application/json" \
   --request POST \
   --data '{"name":"Pedro","cargo":"Contador"}' \
@@ -19,7 +20,8 @@ curl --header "Content-Type: application/json" \
   --data '{}' \
  http://ec2-3-13-229-174.us-east-2.compute.amazonaws.com/api/catpersonal/
 
-##GET
+## GET
+
 [http://ec2-3-13-229-174.us-east-2.compute.amazonaws.com/api/catpersonal/100](http://ec2-3-13-229-174.us-east-2.compute.amazonaws.com/api/catpersonal/100)
 
 [http://ec2-3-13-229-174.us-east-2.compute.amazonaws.com/api/catpersonal/1](http://ec2-3-13-229-174.us-east-2.compute.amazonaws.com/api/catpersonal/1)
