@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McapCyinWS", "McapCyinWS\McapCyinWS.csproj", "{3CDEB9D9-F987-4157-9904-D70FA38BB54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDEB9D9-F987-4157-9904-D70FA38BB54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDEB9D9-F987-4157-9904-D70FA38BB54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDEB9D9-F987-4157-9904-D70FA38BB54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDEB9D9-F987-4157-9904-D70FA38BB54E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E15AFF1-B00A-4C25-B686-92C6BD7637DE}
+	EndGlobalSection
+EndGlobal
